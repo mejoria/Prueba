@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+tensorflow
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-aiplatform
+matplotlib
+seaborn
+python-dotenv
+pytest
+docker
