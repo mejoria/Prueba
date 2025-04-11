@@ -11,3 +11,5 @@ seaborn
 python-dotenv
 pytest
 docker
+fastapi
+uvicorn[standard]

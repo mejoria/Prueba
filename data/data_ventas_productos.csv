@@ -1,0 +1,11 @@
+producto,fecha_venta,ventas,categoria,promocion
+Producto A,2025-01-15,150,Electrónicos,Si
+Producto B,2025-02-20,220,Ropa,No
+Producto C,2025-03-10,180,Hogar,Si
+Producto A,2025-03-25,190,Electrónicos,No
+Producto B,2025-04-01,250,Ropa,Si
+Producto C,2025-04-12,200,Hogar,No
+Producto A,2025-05-05,170,Electrónicos,Si
+Producto B,2025-05-18,230,Ropa,No
+Producto C,2025-06-02,210,Hogar,Si
+Producto A,2025-06-22,200,Electrónicos,No
